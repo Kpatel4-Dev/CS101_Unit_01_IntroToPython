@@ -18,7 +18,7 @@ Welcome to Unit 1! Here's what you'll be working on:
 - On-ground students: We’ll complete this lab **together in class**
 - Online students: A **video walkthrough** will be posted on **Canvas**
 
-### 📌 First Lab in Python Instructions: [Lab 0: Intro to Python](Unit01_Intro/IntroToPython/LabInstruction_README.md)
+### 📌 First Lab in Python Instructions: [Lab 00: Intro to Python](CS101_Unit_01_IntroToPython/La_00/Lab00_README.md)
 
 ---
 Make sure to check Canvas regularly for updates, due dates, and resources. Happy coding!
